@@ -37,6 +37,7 @@ body:
         - als-brightness
         - ambient-sounds
         - anilist
+        - arch-audit
         - arch-updater
         - ask-claude
         - asus-fan
@@ -67,6 +68,7 @@ body:
         - cider
         - claude-cockpit
         - claude-companion
+        - claude-operator
         - claude-sessions
         - claudecode
         - cmd-runner
@@ -111,6 +113,7 @@ body:
         - headroom
         - headsetcontrol
         - herdr
+        - honor-earbuds
         - hotspot
         - hover-widgets
         - hypr-layout-switcher
@@ -118,6 +121,7 @@ body:
         - hypr-submap
         - hyprland-settings
         - hyprland-visual-editor
+        - icons
         - ideapad-conservation-mode
         - iio_lock
         - imagemagick-clock
@@ -200,6 +204,7 @@ body:
         - opencodex-bar
         - openvpn3
         - opnsense
+        - opnsense-traffic
         - oppo-pods
         - owntone-control
         - paged-todo
@@ -241,6 +246,7 @@ body:
         - saved-desktop-widgets
         - screen-capture
         - screen-toolkit
+        - settings-to-nix
         - share-wifi
         - sharednd
         - shelf
